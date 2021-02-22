@@ -1,8 +1,7 @@
 # FL4XY ([@FL4XY](https://github.com/FL4XY))
 
-<a href="https://github.com/storbukas/personlig-bilskilt">
-  <img src="http://personlig-bilskilt.storbukas.no/FL4XY">
-</a>
+<img src="http://personlig-bilskilt.storbukas.no/FL4XY">
+
 
 IT Student, Technology enthusiast, Record holder in steam playtime for various games (loser)
 
