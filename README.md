@@ -5,6 +5,6 @@
 
 IT Student, Technology enthusiast, Record holder in steam playtime for various games (loser)
 
-- 🎓 &nbsp;&nbsp;I'm currently Studying at the University of Oslo (UIO) as a bachelor student. The course is called "IT: Programming and System Architecture"
+- 🎓 &nbsp;&nbsp;I'm currently Studying at the University of Oslo (UIO) as a bachelor student, taking the course "IT: Programming and System Architecture"
 - 💡 &nbsp;&nbsp; I'm interested in programming, electronics and technology in general.
 
